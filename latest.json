@@ -1,8 +1,8 @@
 {
-  "version": "0.1.5",
-  "releaseName": "Baky Browser 0.1.5",
-  "publishedAt": "2026-04-19T19:09:23+02:00",
-  "releaseUrl": "https://github.com/GeneralMartin180/baky-browser-auto-uptade-/releases/tag/v0.1.5",
-  "downloadUrl": "https://github.com/GeneralMartin180/baky-browser-auto-uptade-/releases/download/v0.1.5/Baky.Browser.Setup.0.1.5.exe",
-  "notes": "Baky Browser 0.1.5 with built-in update download and installer flow."
+  "version": "0.1.6",
+  "releaseName": "Baky Browser 0.1.6",
+  "publishedAt": "2026-04-19T19:24:15+02:00",
+  "releaseUrl": "https://github.com/GeneralMartin180/baky-browser-auto-uptade-/releases/tag/v0.1.6",
+  "downloadUrl": "https://github.com/GeneralMartin180/baky-browser-auto-uptade-/releases/download/v0.1.6/Baky.Browser.Setup.0.1.6.exe",
+  "notes": "Baky Browser 0.1.6 without the test dot in the header."
 }
